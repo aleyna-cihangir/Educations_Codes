@@ -36,8 +36,25 @@ $\mu$ : mean
 
 
 **Hypothesis :** a scientific technique. has two types;
-- H0(zero hypothesis) : $\mu$  = 50
-- H1(alternative hypothesis) : $\mu$ =/ 50 
+- H0(zero hypothesis) :             $\mu$ = 50      $\mu$ <= 50        $\mu$ >= 50
+- H1(alternative hypothesis) :      $\mu$ =/ 50     $\mu$ > 50         $\mu$ < 50 
+
+
+***! say to Accept is not true for Hypothesis.. we should say 'to reject' instead of 'to accept'***
+
+
+**P-Value :** must to be p < 0.05. reject to H0 hypothesis. but we dont want to reject H0 in dispersion tests. 
+
+
+**Test Statistic :(One Sample T Test)** 
+
+${\displaystyle t={\frac {{\bar {x}}-\mu _{0}}{\frac {s}{\sqrt {n}}}}}$
+
+
+
+
+
+
 
 
 
