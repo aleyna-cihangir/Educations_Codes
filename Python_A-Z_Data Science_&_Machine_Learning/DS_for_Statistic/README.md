@@ -59,3 +59,4 @@ ${\displaystyle t={\frac {{\bar {x}}-\mu _{0}}{\frac {s}{\sqrt {n}}}}}$
 
 
 
+
