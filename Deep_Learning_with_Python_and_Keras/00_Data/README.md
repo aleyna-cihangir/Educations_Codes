@@ -8,5 +8,5 @@ Some of things we may to check;
 - Data Type
 - Distribution / Correlation
 
-
+*Pandas:* is an open source library that provides high performance, easy to use data structures and data analysis tool. 
 
