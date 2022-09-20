@@ -10,3 +10,5 @@ Some of things we may to check;
 
 *Pandas:* is an open source library that provides high performance, easy to use data structures and data analysis tool. 
 
+*Unstructured Data:* is anything that does not come in a tabular format. (Images, sounds, texts...). Need feature extraction, DL is great at it. 
+
